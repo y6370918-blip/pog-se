@@ -1,0 +1,10 @@
+{
+  "name": "paths-of-glory-schlieffen-edition",
+  "private": true,
+  "scripts": {
+    "build-army-ah": "node tools/build-army-ah-sprite.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}
